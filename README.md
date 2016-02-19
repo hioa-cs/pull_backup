@@ -16,3 +16,9 @@ For example:
 gw:/etc,/home
 ```
  
+# Running #
+
+```
+./pull_backup.py -c /etc/backup_plan.py
+```
+

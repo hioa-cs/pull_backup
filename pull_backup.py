@@ -8,10 +8,10 @@ VERBOSE = 0
 DEBUG = 0
 
 ITERATIONS = 7
-BACKUP_FOLDER = "/backups/"
+BACKUP_FOLDER = "/backup/"
 CONFIG = "/etc/backup.conf"
 
-SCP_USER = "ubuntu@"
+SCP_USER = "root@"
 
 ###########################################
 # Extra stuff
